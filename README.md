@@ -9,5 +9,4 @@ I'm open to **internships, research opportunities, and meaningful collaborations
 ### 📫 Let's Connect
 - 🌐 **Portfolio:** [jawadul-arham.vercel.app](https://jawadul-arham.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/jawadul-arham](https://www.linkedin.com/in/jawadul-arham)
-- 💻 **GitHub:** [github.com/jawadul-codes](https://github.com/jawadul-codes)
 - ✉️ **Email:** [jawadul.arham177@gmail.com](mailto:jawadul.arham177@gmail.com)
